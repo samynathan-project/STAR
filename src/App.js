@@ -6,5 +6,5 @@ export default function App() {
      <div classname="bg-info">
       <h1>Welcome</h1>
      </div>
-  );
+  )
 }
